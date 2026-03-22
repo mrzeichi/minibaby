@@ -19,3 +19,6 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Reviewed open issues, added labels
 - Refactored module structure for clarity
+
+## 2026-03-23
+- Added .editorconfig for consistent formatting
