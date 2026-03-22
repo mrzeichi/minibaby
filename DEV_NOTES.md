@@ -11,3 +11,6 @@ Personal development log — notes, findings, and ongoing work.
 - Verified compatibility with latest runtime version
 - Resolved deprecation warnings
 - Reviewed codebase, identified areas for improvement
+
+## 2026-03-23
+- Added basic usage examples to README
